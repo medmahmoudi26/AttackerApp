@@ -2,7 +2,7 @@
      "name": "Hello World",
      "description": "Atlassian Connect app",
      "key": "bugbounty-medma-gotya",
-     "baseUrl": "https://ba0d-80-13-5-227.ngrok.io",
+     "baseUrl": "https://medmahmoudi26.github.io/AttackerApp",
      "vendor": {
          "name": "Example, Inc.",
          "url": "https://example.com",
