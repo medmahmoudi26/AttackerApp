@@ -12,6 +12,7 @@
          "type": "none"
      },
      "apiVersion": 2,
+     "version":"2.0.0-DEV",
      "modules": {
          "generalPages": [
              {
